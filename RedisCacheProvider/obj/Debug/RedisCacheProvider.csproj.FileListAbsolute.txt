@@ -1,0 +1,13 @@
+E:\MVP\Projects\WebAPI.Output.RedisCache\RedisCacheProvider\bin\Debug\RedisCacheProvider.dll
+E:\MVP\Projects\WebAPI.Output.RedisCache\RedisCacheProvider\bin\Debug\RedisCacheProvider.pdb
+E:\MVP\Projects\WebAPI.Output.RedisCache\RedisCacheProvider\bin\Debug\Newtonsoft.Json.dll
+E:\MVP\Projects\WebAPI.Output.RedisCache\RedisCacheProvider\bin\Debug\StackExchange.Redis.dll
+E:\MVP\Projects\WebAPI.Output.RedisCache\RedisCacheProvider\bin\Debug\System.Net.Http.Formatting.dll
+E:\MVP\Projects\WebAPI.Output.RedisCache\RedisCacheProvider\bin\Debug\System.Web.Http.dll
+E:\MVP\Projects\WebAPI.Output.RedisCache\RedisCacheProvider\bin\Debug\Newtonsoft.Json.xml
+E:\MVP\Projects\WebAPI.Output.RedisCache\RedisCacheProvider\bin\Debug\StackExchange.Redis.xml
+E:\MVP\Projects\WebAPI.Output.RedisCache\RedisCacheProvider\bin\Debug\System.Net.Http.Formatting.xml
+E:\MVP\Projects\WebAPI.Output.RedisCache\RedisCacheProvider\bin\Debug\System.Web.Http.xml
+E:\MVP\Projects\WebAPI.Output.RedisCache\RedisCacheProvider\obj\Debug\RedisCacheProvider.csprojResolveAssemblyReference.cache
+E:\MVP\Projects\WebAPI.Output.RedisCache\RedisCacheProvider\obj\Debug\RedisCacheProvider.dll
+E:\MVP\Projects\WebAPI.Output.RedisCache\RedisCacheProvider\obj\Debug\RedisCacheProvider.pdb
